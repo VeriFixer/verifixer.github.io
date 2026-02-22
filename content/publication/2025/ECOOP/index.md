@@ -44,7 +44,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/2025/ECOOP/ecoop25-contracts-android.pdf 
+url_pdf: publication/2025/ecoop/ecoop25-contracts-android.pdf 
 url_code: https://github.com/sr-lab/contracts-android
 url_dataset: 
 url_poster:

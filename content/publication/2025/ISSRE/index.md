@@ -62,7 +62,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/2025/ISSRE/issre25-challenges.pdf
+url_pdf: publication/2025/issre/issre25-challenges.pdf
 #url_code: https://github.com/sr-lab/contracts-android
 url_dataset: 
 url_poster:
