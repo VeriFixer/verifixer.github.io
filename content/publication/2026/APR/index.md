@@ -13,7 +13,7 @@ publishDate: 2026-09-01T20:41:47Z
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In *Automated Program Repair, 2026*, Co-located with *41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)*"
