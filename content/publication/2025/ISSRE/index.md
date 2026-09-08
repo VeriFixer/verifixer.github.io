@@ -94,5 +94,5 @@ projects: []
 slides: ""
 
 aliases:
-    - /publications/2025/ECOOP
+    - /publications/2025/ISSRE
 ---
