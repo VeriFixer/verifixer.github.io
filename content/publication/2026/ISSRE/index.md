@@ -43,7 +43,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/2026/ISSRE/ISSRE26-CounterExamples.pdf
+url_pdf: publication/2026/issre/issre26-counterexamples.pdf
 #url_code: https://github.com/sr-lab/contracts-android
 url_dataset: 
 url_poster:
@@ -75,5 +75,5 @@ projects: []
 slides: ""
 
 aliases:
-    - /publications/2026/ISSRE
+    - /publications/2026/issre
 ---

@@ -40,7 +40,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/2026/ICSE/ICSE26-MutDafny.pdf
+url_pdf: publication/2026/icse/icse26-mutdafny.pdf
 #url_code: https://github.com/sr-lab/contracts-android
 url_dataset: 
 url_poster:
@@ -72,5 +72,5 @@ projects: []
 slides: ""
 
 aliases:
-    - /publications/2026/ICSE
+    - /publications/2026/icse
 ---

@@ -21,7 +21,7 @@ publication_short: "In *ASE 2026*"
 publication_ranking: "<b>CORE A* conference</b>"
 # Awards
 #award_text: "**ACM SIGSOFT Distinguished Paper award**"
-#award_text: "**Awarded:** _Artifact Evaluation Award (Available, Reusable)_. **Most cited paper from ICSE 2020 ([Google Scholar Metrics](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=vtDF2hFAQ-cJ.2023&vq=eng_softwaresystems))**"
+award_text: "**Awarded:** _Artifact Evaluation (Available, Functional, and Reusable)_. **Most cited paper from ICSE 2020 ([Google Scholar Metrics](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=vtDF2hFAQ-cJ.2023&vq=eng_softwaresystems))**"
 
 abstract: "Deductive verification ensures that an implementation satisfies its specification, but successful verification does not guarantee the quality of the specification. As such, weak specifications and redundant invariants may create overconfidence in *verified* code.
 <br/>
@@ -48,7 +48,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/2026/ASE1/ASE26-ProofPulse.pdf
+url_pdf: publication/2026/ase1/ase26-proofpulse.pdf
 #url_code: https://github.com/sr-lab/contracts-android
 url_dataset: 
 url_poster:
@@ -80,5 +80,5 @@ projects: []
 slides: ""
 
 aliases:
-    - /publications/2026/ASE1
+    - /publications/2026/ase1
 ---

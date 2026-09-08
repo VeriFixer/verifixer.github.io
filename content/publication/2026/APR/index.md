@@ -41,7 +41,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/2026/APR/APR26-DafnyFix.pdf
+url_pdf: publication/2026/apr/apr26-dafnyfix.pdf
 #url_code: https://github.com/sr-lab/contracts-android
 url_dataset: 
 url_poster:
@@ -73,5 +73,5 @@ projects: []
 slides: ""
 
 aliases:
-    - /publications/2026/APR
+    - /publications/2026/apr
 ---
