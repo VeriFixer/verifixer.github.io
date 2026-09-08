@@ -74,5 +74,5 @@ projects: []
 slides: ""
 
 aliases:
-    - /publications/2025/SLE
+    - /publications/2025/SEFM_Repair
 ---
