@@ -79,5 +79,5 @@ projects: []
 slides: ""
 
 aliases:
-    - /publications/2026/ase2
+    - /publications/2026/ASE2
 ---
