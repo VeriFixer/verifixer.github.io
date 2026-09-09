@@ -21,7 +21,8 @@ publication_short: "In *ASE 2026*"
 publication_ranking: "<b>CORE A* conference</b>"
 # Awards
 #award_text: "**ACM SIGSOFT Distinguished Paper award**"
-award_text: "**Awarded:** _Artifact Evaluation (Available, Functional, and Reusable)_. **Most cited paper from ICSE 2020 ([Google Scholar Metrics](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=vtDF2hFAQ-cJ.2023&vq=eng_softwaresystems))**"
+award_text: "**Awarded:** _Artifact Evaluation (Available, Functional, and Reusable)_." 
+
 
 abstract: "Deductive verification ensures that an implementation satisfies its specification, but successful verification does not guarantee the quality of the specification. As such, weak specifications and redundant invariants may create overconfidence in *verified* code.
 <br/>
