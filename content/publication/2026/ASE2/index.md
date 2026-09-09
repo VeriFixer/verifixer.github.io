@@ -47,7 +47,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/2026/ASE2/ase26-dspec2test.pdf
+url_pdf: publication/2026/ase2/ase26-dspec2test.pdf
 #url_code: https://github.com/sr-lab/contracts-android
 url_dataset: 
 url_poster:
@@ -79,5 +79,5 @@ projects: []
 slides: ""
 
 aliases:
-    - /publications/2026/ASE2
+    - /publications/2026/ase2
 ---
