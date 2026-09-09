@@ -21,7 +21,7 @@ publication_short: "In *ASE 2026*"
 publication_ranking: "<b>CORE A* conference</b>"
 # Awards
 #award_text: "**ACM SIGSOFT Distinguished Paper award**"
-award_text: "**Awarded:** _Artifact Evaluation (Available, Functional, and Reusable)_. **Most cited paper from ICSE 2020 ([Google Scholar Metrics](https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=vtDF2hFAQ-cJ.2023&vq=eng_softwaresystems))**"
+award_text: "**Awarded:** _Artifact Evaluation (Available, Functional, and Reusable)_."
 
 abstract: "Verification-aware languages, such as Dafny, integrate logical constructs into code and enable automatic verification of program correctness. However, tests remain helpful in scenarios that verification alone does not address (e.g., to support test-driven development). Existing Dafny test generation tools are implementation-based,
 limiting their applicability in this context.
